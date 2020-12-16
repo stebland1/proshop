@@ -1,4 +1,4 @@
-# proshop
-MERN Stack full eCommerce application
+# ProShop
+MERN Stack full eCommerce application.
 
-https://proshop-sb.herokuapp.com/
+With admin logins and ability to manage products & orders.
